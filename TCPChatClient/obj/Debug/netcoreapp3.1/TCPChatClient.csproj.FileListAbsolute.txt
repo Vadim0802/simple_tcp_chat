@@ -1,0 +1,13 @@
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\bin\Debug\netcoreapp3.1\TCPChatClient.exe
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\bin\Debug\netcoreapp3.1\TCPChatClient.deps.json
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\bin\Debug\netcoreapp3.1\TCPChatClient.runtimeconfig.json
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\bin\Debug\netcoreapp3.1\TCPChatClient.runtimeconfig.dev.json
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\bin\Debug\netcoreapp3.1\TCPChatClient.dll
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\bin\Debug\netcoreapp3.1\TCPChatClient.pdb
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\obj\Debug\netcoreapp3.1\TCPChatClient.csprojAssemblyReference.cache
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\obj\Debug\netcoreapp3.1\TCPChatClient.AssemblyInfoInputs.cache
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\obj\Debug\netcoreapp3.1\TCPChatClient.AssemblyInfo.cs
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\obj\Debug\netcoreapp3.1\TCPChatClient.csproj.CoreCompileInputs.cache
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\obj\Debug\netcoreapp3.1\TCPChatClient.dll
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\obj\Debug\netcoreapp3.1\TCPChatClient.pdb
+C:\Users\vadim\RiderProjects\TCPChatClient\TCPChatClient\obj\Debug\netcoreapp3.1\TCPChatClient.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vadim\RiderProjects\TCPChatServer\bin\Debug\netcoreapp3.1\TCPChatServer.exe
+C:\Users\vadim\RiderProjects\TCPChatServer\bin\Debug\netcoreapp3.1\TCPChatServer.deps.json
+C:\Users\vadim\RiderProjects\TCPChatServer\bin\Debug\netcoreapp3.1\TCPChatServer.runtimeconfig.json
+C:\Users\vadim\RiderProjects\TCPChatServer\bin\Debug\netcoreapp3.1\TCPChatServer.runtimeconfig.dev.json
+C:\Users\vadim\RiderProjects\TCPChatServer\bin\Debug\netcoreapp3.1\TCPChatServer.dll
+C:\Users\vadim\RiderProjects\TCPChatServer\bin\Debug\netcoreapp3.1\TCPChatServer.pdb
+C:\Users\vadim\RiderProjects\TCPChatServer\obj\Debug\netcoreapp3.1\TCPChatServer.csprojAssemblyReference.cache
+C:\Users\vadim\RiderProjects\TCPChatServer\obj\Debug\netcoreapp3.1\TCPChatServer.AssemblyInfoInputs.cache
+C:\Users\vadim\RiderProjects\TCPChatServer\obj\Debug\netcoreapp3.1\TCPChatServer.AssemblyInfo.cs
+C:\Users\vadim\RiderProjects\TCPChatServer\obj\Debug\netcoreapp3.1\TCPChatServer.csproj.CoreCompileInputs.cache
+C:\Users\vadim\RiderProjects\TCPChatServer\obj\Debug\netcoreapp3.1\TCPChatServer.dll
+C:\Users\vadim\RiderProjects\TCPChatServer\obj\Debug\netcoreapp3.1\TCPChatServer.pdb
+C:\Users\vadim\RiderProjects\TCPChatServer\obj\Debug\netcoreapp3.1\TCPChatServer.genruntimeconfig.cache
